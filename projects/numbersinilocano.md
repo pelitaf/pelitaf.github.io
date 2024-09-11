@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Ilocano.jpg
 title: "Numbers In Ilocano"
 date: 2024-06-07
 published: true
