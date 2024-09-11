@@ -11,7 +11,6 @@ labels:
   - Translation
 summary: "A program that will print the Ilocano translation of numbers from 1-9999."
 ---
-<hr1> Numbers In Ilocano </hr1>
 
 <hr2> Overview: </hr2>
 
