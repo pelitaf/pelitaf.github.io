@@ -28,7 +28,7 @@ Example of code output after running:
 
 
 Snippet of Code Used:
-'''
+
 int main(void) {
 
     // Tells user what program does.
@@ -169,4 +169,3 @@ int main(void) {
                 default:
                     break;
             }
-            '''
