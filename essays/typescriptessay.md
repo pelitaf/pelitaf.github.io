@@ -11,7 +11,6 @@ labels:
   - New Skills
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 Walking into my first 300 level computer science course, I honestly did not know what to expect. I did not expect to be having to learn a whole new programming language. In ICS 111 and 211 we focused on Java. ICS 212 we focused mainly on C and was slightly introduced to using the command line. C language was similar enough to Java that the transition wasn’t rough. Though, after sitting in my first ICS 314 class and learning that we will be learning HTML, CSS, JavaScript, and TypeScript, I immediately became overwhelmed.
 
