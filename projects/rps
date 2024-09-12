@@ -16,5 +16,5 @@ In my ICS 212 class, I developed this program that simulates the game of rock, p
 I implemented a series of switch cases in order to get the computers play, users play, and game result. In addition to that, I had a random number generator to help with the computers play. Lastly, I implemented a loop that allowed the game to keep going until the user quit.
 
 #Example Program Run:
-<img src="
+<img src="../img/Screenshot 2024-09-12 003607.png"
       alt="The C-program runs games of rock-paper-scissors and prints the results when the user is done playing." >
