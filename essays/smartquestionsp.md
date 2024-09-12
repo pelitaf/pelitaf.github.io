@@ -21,9 +21,13 @@ By doing so, you can save yourself time and get the help you need to get your pr
 
 After looking at some questions on StackOverflow, here are two that stuck out to me.
 
-What is the '-->' operator in C/C++? - Stack Overflow
-In this question, the user is asking what the “-->” operator in C/C++ does. 
-The user gave this code:
+```
+Q: What is the '-->' operator in C/C++? - Stack Overflow [What is the '-->' operator in C/C++?](https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c-c)
+After reading Hidden Features and Dark Corners of C++/STL on comp.lang.c++.moderated, I was completely surprised that the following snippet compiled and worked in both Visual Studio 2008 and G++ 4.4. I would assume this is also valid C since it works in GCC as well.
+
+Here's the code:
+
+#include <stdio.h>
 int main()
 {
     int x = 10;
@@ -32,6 +36,11 @@ int main()
         printf("%d ", x);
     }
 }
+Output:
+
+9 8 7 6 5 4 3 2 1 0
+Where is this defined in the standard, and where has it come from?
+```
 
 After looking through this thread, I have noticed that some of the answers are sarcastic and unhelpful. Others, who have tried to help agrees on the basic claim that it counts down to 0 in this situation, which is already stated as commented in the code. The rest of the discourse is other users arguing about why is does that, what is an equivalent code, and whether it is or is not ethical to use it. Overall, the original poster has gotten many answers but I would not think they got the exact answer they were looking for either. 
 The second question that stuck out to me was: Why does HTML think “chucknorris” is a color?
