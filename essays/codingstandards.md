@@ -6,13 +6,14 @@ title: "Coding Standards"
 date: 2024-09-25
 published: true
 labels:
-  - Programming
+  - ESLint
   - TypeScript
   - New Skills
 ---
 
+# Coding Standards
+In the world of computer science, coding is heavy on formalities. *Every little thing matters*. I remember in my first computer science classes I was taught by my professors that coding standards focus on syntax and general formatting/spacing. For example:
 
-In the world of computer science, coding is heavy on formalities. Every little thing matters. I remember in my first computer science classes I was taught by my professors that coding standards focus on syntax and general formatting/spacing. For example:
 - How you space out your code can affect the readability and neatness of your code.
 - Naming variables helps the reader understand how the code works.
 - Comments should be made to help the reader understand the code.
