@@ -17,11 +17,12 @@ labels:
 <p>Coming back to school to study Information and Computer Sciences, I was initially set on a career in data science since math was one of my strongest skills. However, as I progressed with my studies, I began questioning my path. Where do I belong in the world of computer science? Then came UI and I was instantly taken back to 11-year-old me designing my profile page for MySpace.</p>
 </div>
 
+<div class="container">
 <div class="row">
   
 <div class="col">
 <h2>My First Interactions With HTML</h2>
-<img width="100%" class="rounded float-start pe-4" src="https://ct.pimp-my-profile.com/layouts/m/31259.jpg">
+<img width="100%" class="rounded float-start pe-4" src="img/Screenshot 2024-10-09 221947.png" alt="Myspace Template from pimp-my-profile.com">
 <p>Before Twitter, Instagram, and Facebook, MySpace was the social website of its time. It wasn’t like any other website in the sense that you could design your own profile page via HTML. It was then I designed my first ever web page.  There were many HTML templates and resources online that you could use to help build your page and customize it. I remember spending hours finding HTML templates and tweaking it to my liking -setting my profile page background, cursor, and adding a music player to play my favorite songs. The possibilities were endless, and even though many profiles looked wild, they were filled with personality. </p>
 </div>
     
@@ -29,7 +30,8 @@ labels:
 <h2>Learning HTML Now</h2>
 <img width="100%" class="rounded float-start pe-4" src="img/Screenshot 2024-10-09 221415.png">  
 <p>Fast forward to now, learning about HTML/CSS and Bootstrap 5 feels like a full circle moment for me. Building a website from scratch with raw HTML and CSS code can be daunting and time consuming. However, Bootstrap 5 changes the game. It presets for cards, navbars, and more, which alleviates the workload of a web designer. Additionally, it ensures the websites I build are mobile-compatible, which is a must in today’s world.</p>
-<div>
+</div>
+</div>
 </div>
 
 <footer class="container align-items-center">
