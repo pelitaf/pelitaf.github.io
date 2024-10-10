@@ -30,7 +30,7 @@ labels:
 </div>
     
 <div class="col">
-<h2>Learning HTML Now<img class="pe-3 justify-content-center" height="30px" src="../img/bootstrap-logo.svg" alt="Bootstrap logo"></i></h2>
+<h2>Learning HTML Now<img class="pe-3 justify-content-center" height="30px" src="../img/bootstrap-logo.svg" alt="Bootstrap logo"></h2>
 <a href="https://github.com/pelitaf/wod-aloha-beer">
 <img width="100%" class="rounded float-start pe-4" src="../img/Screenshot 2024-10-09 221415.png" alt="Recreation of Duke's Waikiki Website">Click here for a direct link to my repo of this recreation
 </a>
