@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Front-End Design"
+title: "Myspace: My First Website"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
 published: true
@@ -12,9 +12,11 @@ labels:
   - CSS
 ---
 
-## Turning Point in My ICS Journey
+<div>
+<h1>Turning Point in My ICS Journey</h1>
 
 Coming back to school to study Information and Computer Sciences, I was initially set on a career in data science since math was one of my strongest skills. However, as I progressed with my studies, I began questioning my path. Where do I belong in the world of computer science? Then came UI and I was instantly taken back to 11-year-old me designing my profile page for MySpace.
+</div>
 
 ## My First Interactions With HTML
 <img width="300px" class="rounded float-start pe-4" src="https://ct.pimp-my-profile.com/layouts/m/31259.jpg">
