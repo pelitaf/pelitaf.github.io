@@ -27,7 +27,7 @@ labels:
     
 <div class="col">
 <h2>Learning HTML Now</h2>
-<img width="100%" class="rounded float-start pe-4" src="">  
+<img width="100%" class="rounded float-start pe-4" src="img/Screenshot 2024-10-09 221415.png">  
 <p>Fast forward to now, learning about HTML/CSS and Bootstrap 5 feels like a full circle moment for me. Building a website from scratch with raw HTML and CSS code can be daunting and time consuming. However, Bootstrap 5 changes the game. It presets for cards, navbars, and more, which alleviates the workload of a web designer. Additionally, it ensures the websites I build are mobile-compatible, which is a must in today’s world.</p>
 <div>
 </div>
