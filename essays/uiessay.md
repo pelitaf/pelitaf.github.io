@@ -21,7 +21,7 @@ labels:
 <div class="row">
   
 <div class="col">
-<h2>My First Interactions With HTML<img class="pe-3" height="30px" src="../img/myspace.png" alt="Myspace logo"></h2>
+<h2>My First Interactions With HTML<img class="pe-3 justify-content-center" height="30px" src="../img/myspace.png" alt="Myspace logo"></h2>
 <a href="https://www.pimp-my-profile.com/layouts/preview.php?mode=myspace&cname=Pretty&layout_id=31259">
 <img width="100%" class="rounded float-start pe-4" src="../img/myspacexample.png" alt="Myspace Template from pimp-my-profile.com">Click the image for a direct line to the template.
 </a>
