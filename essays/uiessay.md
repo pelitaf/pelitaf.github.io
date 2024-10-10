@@ -1,18 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Front End Design"
+title: "Front-End Design"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
 published: true
-labels:true
+labels:
   - UI Design
-  - Bootstrap5
-  - SHTML
+  - Bootstrap 5
+  - HTML
   - CSS
 ---
-
-
 
 ## Turning Point in My ICS Journey
 
