@@ -32,7 +32,7 @@ labels:
 <div>
 </div>
 
-
+<footer class="container align-items-center">
 <h2>What Now?</h2>
 <p>After dipping my toes into UI design, I finally feel like I have a place in this industry. I’m excited to learn more about this field and see where it takes me. </p>
-</div>
+</footer>
