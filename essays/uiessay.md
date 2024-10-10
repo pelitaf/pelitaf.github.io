@@ -22,13 +22,13 @@ labels:
   
 <div class="col">
 <h2>My First Interactions With HTML</h2>
-<img width="100%" class="rounded float-start pe-4" src="img/Screenshot 2024-10-09 221947.png" alt="Myspace Template from pimp-my-profile.com">
+<img width="100%" class="rounded float-start pe-4" src=".img/Screenshot 2024-10-09 221947.png" alt="Myspace Template from pimp-my-profile.com">
 <p>Before Twitter, Instagram, and Facebook, MySpace was the social website of its time. It wasn’t like any other website in the sense that you could design your own profile page via HTML. It was then I designed my first ever web page.  There were many HTML templates and resources online that you could use to help build your page and customize it. I remember spending hours finding HTML templates and tweaking it to my liking -setting my profile page background, cursor, and adding a music player to play my favorite songs. The possibilities were endless, and even though many profiles looked wild, they were filled with personality. </p>
 </div>
     
 <div class="col">
 <h2>Learning HTML Now</h2>
-<img width="100%" class="rounded float-start pe-4" src="img/Screenshot 2024-10-09 221415.png" alt="Recreation of Duke Waikiki's Website">  
+<img width="100%" class="rounded float-start pe-4" src=".img/Screenshot 2024-10-09 221415.png" alt="Recreation of Duke Waikiki's Website">  
 <p>Fast forward to now, learning about HTML/CSS and Bootstrap 5 feels like a full circle moment for me. Building a website from scratch with raw HTML and CSS code can be daunting and time consuming. However, Bootstrap 5 changes the game. It presets for cards, navbars, and more, which alleviates the workload of a web designer. Additionally, it ensures the websites I build are mobile-compatible, which is a must in today’s world.</p>
 </div>
 </div>
