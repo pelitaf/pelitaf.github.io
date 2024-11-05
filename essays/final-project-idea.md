@@ -19,7 +19,7 @@ One thing I've experienced as a student in UH Manoa is that there is not as much
 <h4>About Us</h4>
 <p>The about us page would have quick information about the purpose of this site and how to navigate through the site.</p>
 
-<h4>Tutors/h4>
+<h4>Tutors</h4>
 <p>The dropdown of this tab would have a link to "Connect with a Tutor." This page would list courses that have tutors available. By clicking the course it would take you to a page that lists the tutors and how to contact them, their availability, reviews, and rates (if applicable) when viewing their views, there will be a button that will allow students to leave a review. The other dropdown of this tab on the landing page would be to "Sign-Up to Tutor." The tab would take them to apply to become a tutor in which they would habe to submit proof of having at least taking the course which we would then verify.</p>
 
 <h4>Free Sources Forum</h4>
