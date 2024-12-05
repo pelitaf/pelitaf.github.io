@@ -11,7 +11,7 @@ labels:
   - UI
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSup0JkKRciDsp3bufhEE0RNFvRdDMQIOi_Hg&s">
+<img width="300px" class="rounded float-start pe-4" src="img/Screenshot 2024-12-05 001501.png">
 
 ## Designs
 
