@@ -1,7 +1,7 @@
 ---
-layout: To Design or Not to Design 
+layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "To Design or Not Design"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-03
 published: true
