@@ -45,12 +45,12 @@ labels:
     <h4>Before AI:</h4>
     <img width="100%" src="../img/messy.png" alt="Original Map Layout"> 
   </div>
-</div>
   <div class="col">
     <h4>After AI:</h4>
     <img width="100%" src="../img/mainlocations.png" alt="Map Showing Main Locations"> 
     <img width="100%" src="../img/individualrestaurant.png" alt="Map Showing Specific Restaurant Location">
   </div>
+</div>
 </div>
 
 
