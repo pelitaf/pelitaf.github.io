@@ -50,6 +50,7 @@ labels:
     <img width="100%" src="../img/mainlocations.png" alt="Map Showing Main Locations"> 
     </div>
   <div class="col">
+    <h4> </h4>
     <img width="100%" src="../img/individualrestaurant.png" alt="Map Showing Specific Restaurant Location">
   </div>
 </div>
