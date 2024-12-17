@@ -39,13 +39,13 @@ labels:
 
 <h2>Pratical Applications</h2>
 <p>As mentioned earlier, AI was a real key player for our final project. Whatever vision I had, AI could bring it to life. For example, originally our Map page for our application showed every single restaurants map marker. I thought it looked really messy so I wanted it to show the main Locations on Campus and then allow a user to select a specific restaurant then render only that restaurants' map marker.</p>
+<div class="container">
 <div class="row">
   <div class="col">
     <h4>Before AI:</h4>
     <img src="../img/messy.png" alt="Original Map Layout"> 
   </div>
 </div>
-<div class="row">
   <div class="col">
     <h4>After AI:</h4>
     <img src="../img/mainlocations.png" alt="Map Showing Main Locations"> 
