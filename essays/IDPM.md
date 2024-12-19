@@ -12,7 +12,7 @@ labels:
   - Applications
 ---
 <Container>
-<img width="100&" src="../img/IDPM.png" alt="Project Management Photo">
+<img width="100%" src="../img/IDPM.png" alt="Project Management Photo">
 <h2>What is IDPM and Effort Estimation?</h2>
 <p>IDPM stands for Issue-Driven Project Management. It is an approach to a project that allows for many people to work together and easily keep track of progress, due dates, and timelines. Incorporating effort estimation into an IDPM allows the team to determine how much work still needs to be done before a specific due date and how to divvy up their time. In IDPM, each tasks is typically done in a different branch keeping the work done organized. Having issues/tasks to do also help keeps track of who is working on what and if progress is being made by checking the branch that should correspond to the issue. Overall, I believe this type of project manangement is very helpful for mananging work in a team and makes sure everyone is on the same page.</p>
 
