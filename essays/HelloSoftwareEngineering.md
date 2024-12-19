@@ -13,8 +13,9 @@ labels:
 ---
 
 <div>
-
+<div class="mx-auto">
 <img src="../img/helloworld.jpg" alt="Hello World Coding" class="text-center" height="400px" >
+</div>
 <h2>"Hello World"</h2>
 <p>Hello world of software engineering! A world of endless possibilities and outcomes. Everything I have studied up until this point has barely even prepared me for the work needed to be done. Taking my first software engineering class I honeslty did not know what to expect. Every class so far has just been going over basic coding in different languages and on different IDE's. Every day was filled with new challenges, lessons to be learned, and skills to gain.</p>
 
@@ -26,6 +27,7 @@ labels:
 
 <h3>Coding That Saves You Time</h3>
 <p>Funcitonal programming saves you a lot of time and effort. Setting up your functions in a way that allow you to cut down the amount of code needed is the best part of it. For example, if you give an array of items, you can use .map in a function to print out all of them instead of trying to hard code them as shown below:
+
 ```
 const names = ["Pelita", "Cam", "Al"]
 
@@ -37,6 +39,7 @@ Compared to:
 
 console.log("Hello + names[0], names[1], names[2]);
 ```
+
 It makes your code more efficeint and allows it to be easier to scale. Functional programming is something we tried to use as much as we could in creating our final project. For example we had a data set of restaurants and mapped them to our component that would render a car displaying all of their information. This is a skill that is essential to any considering going into the Computer Science field and something I will take with me for the rest of my life. Why work harder when you can work smarter, right?
 </p>
 
