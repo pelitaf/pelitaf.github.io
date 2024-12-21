@@ -4,7 +4,7 @@ type: project
 image: img/IMG_5044.jpg
 title: "Chocolate Sculpture"
 date: 2017
-published: true
+published: false
 labels:
   - Baking
   - Culinary
