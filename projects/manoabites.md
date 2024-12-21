@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/FullLogo.png
-title: "Vacay"
+title: "Manoa Bites"
 date: 2024-12
 published: true
 labels:
