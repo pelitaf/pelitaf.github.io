@@ -5,7 +5,6 @@ title: Pelita Felicitas | Professional Portfolio
 url: https://pelitaf.github.io
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
 baseurl: ""
-theme: jekyll-theme-minimal
 
 # OPTIONAL CHANGES
 ## Specify the theme using any of the css files in css/techfolio-theme
