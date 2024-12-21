@@ -6,11 +6,10 @@ title: "Vacay"
 date: 2015
 published: false
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Postgres
+  - Vercel
   - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "An application is designed to help students and staff at the University of Hawaii at Manoa easily find food options across campus locations."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
