@@ -58,3 +58,7 @@ a {
   border-style: solid;
   border-width: 1px;
 }
+
+img {
+  box-shadow: 0 0 5px var(--tf-blue1);
+}

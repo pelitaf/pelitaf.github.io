@@ -13,8 +13,8 @@ labels:
 ---
 
 <div>
-<div class="mx-auto">
-<img src="../img/helloworld.jpg" alt="Hello World Coding" class="text-center" height="400px" >
+<div style="text-align: center;">
+<img src="../img/helloworld.jpg" alt="Hello World Coding" height="400px" >
 </div>
 <h2>"Hello World"</h2>
 <p>Hello world of software engineering! A world of endless possibilities and outcomes. Everything I have studied up until this point has barely even prepared me for the work needed to be done. Taking my first software engineering class I honeslty did not know what to expect. Every class so far has just been going over basic coding in different languages and on different IDE's. Every day was filled with new challenges, lessons to be learned, and skills to gain.</p>

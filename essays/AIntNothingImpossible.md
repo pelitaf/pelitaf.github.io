@@ -11,9 +11,9 @@ labels:
   - Ninja AI
   - Software Engineering
 ---
-
+<div style="text-align: center;">
 <img src="../img/ai.png" alt="AI for coding">
-
+</div>
 <h2>Introduction</h2>
 <p>For the most part of my journey majoring in Computer Science, AI was forbidden, never to be used. Even in my non-computer science classes AI is greatly frowned upon and has severe consequences if used. So when I walked into my ICS 314 class for Software Engineering and one of the first things professor Moore said was "It's okay if you use AI! Just make sure you say so when you submit your assignments," I honestly could not believe it and thought it was a test. At first I was very reluctant on using AI because I wanted to prove myself of being capable of doing everything on my own. That changed when the pace of this class started picking up.</p>
 
