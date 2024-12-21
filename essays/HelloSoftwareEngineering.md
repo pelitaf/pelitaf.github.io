@@ -13,7 +13,7 @@ labels:
 ---
 
 <div>
-<div style="text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;">
+<div style="text-align: center;">
 <img src="../img/helloworld.jpg" alt="Hello World Coding" height="400px" >
 </div>
 <h2>"Hello World"</h2>

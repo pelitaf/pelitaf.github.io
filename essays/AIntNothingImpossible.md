@@ -11,7 +11,7 @@ labels:
   - Ninja AI
   - Software Engineering
 ---
-<div style="text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;">
+<div style="text-align: center;">
 <img src="../img/ai.png" alt="AI for coding">
 </div>
 <h2>Introduction</h2>
