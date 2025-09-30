@@ -4,7 +4,7 @@ type: essay
 title: "AIn't Nothing Impossible | Using AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
-published: true
+published: false
 labels:
   - ChatGPT
   - AI
