@@ -3,7 +3,7 @@
     "name": "Pelita Felicitas",
     "label": "Student",
     "picture": "https://github.com/pelitaf.png",
-    "email": "pelitaf@hawaii.edu",
+    "email": "pelita.felicitas@gmail.com",
     "phone": "808-237-0753",
     "website": "https://pelitaf.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
@@ -16,12 +16,13 @@
   "interests": [
     { "name": "Web Design" },
     { "name": "UX & UI Design" },
-    { "name": "House Plants" }
+    { "name": "House Plants" },
+    { "name": "Software Engineering"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "HTML", "CSS" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "HTML", "CSS", "React" ]
     },
     {
       "name": "Toolsets/OS",
@@ -62,35 +63,30 @@
         "Maintain a clean and organized kitchen space"
       ]
     },
-    {
-      "company": "Lavish Spa and Nail Salon",
-      "position": "Receptionist",
-      "website": "https://lavishspanaillounge.com/",
-      "startDate": "2018-06-01",
-      "endDate": "2021-07-26",
-      "summary": "Book services and auditing daily transactions.",
-      "highlights": [
-        "Assist clients in booking the right service",
-        "Check out clients correctly and efficiently",
-        "Check sales of the day for any discrepancies",
-        "Fix errors in sales by crediting/refunding correct party"
-      ]
-    }
-  ],
   "volunteer": [
     {
-      "organization": "Feed My Starving Children",
-      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
-      "position": "Food Packer",
-      "startDate": "2016-03-01",
+      "organization": "Hawaiian Humane Society",
+      "website": "https://www.hawaiianhumane.org/",
+      "position": "Dog Walker",
+      "startDate": "2025-10-11",
       "summary": "",
       "highlights": [
-        "Help pack food that is sent to countries in need."
+        "Walk dogs to help leash train them, socialize them, and decrease their stress levels."
+      ]
+    },
+    {
+      "organization": "Oahu SCPA",
+      "website": "https://oahuspca.org/",
+      "position": "Dog Walker",
+      "startDate": "2025-09-11",
+      "summary": "",
+      "highlights": [
+        "Walk dogs to help leash train them, socialize them, and decrease their stress levels."
       ]
     },
     {
       "organization": "Ka Papa Lo'i O Kanewai",
-      "website": "https://www.fmsc.org/",
+      "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
       "position": "Lo'i Maintenance Volunteerr",
       "startDate": "2024-12-07",
       "endDate": "",
