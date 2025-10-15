@@ -36,7 +36,7 @@
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
-      "courses": ["Software Engineering I/II", "Algorithms", "Operating Systems", "Security and Trust I", "Machine-Level & Systems Programming", "Database Systems I", "Design for Mobile Devices",
+      "courses": ["Software Engineering I/II", "Algorithms", "Operating Systems", "Security and Trust I", "Machine-Level & Systems Programming", "Database Systems I", "Design for Mobile Devices"
       ]
     },
     {
@@ -45,7 +45,7 @@
       "studyType": "A.S.",
       "startDate": "2023-08-20",
       "endDate": "2025-05-15",
-      "courses": ["Intro to Computer Science I/II", "Program Structure", "Discrete Mathematics I/II",
+      "courses": ["Intro to Computer Science I/II", "Program Structure", "Discrete Mathematics I/II"
   ]
     }
   ],
@@ -63,6 +63,7 @@
         "Maintain a clean and organized kitchen space"
       ]
     },
+  ],
   "volunteer": [
     {
       "organization": "Hawaiian Humane Society",
