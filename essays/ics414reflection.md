@@ -11,7 +11,7 @@ labels:
   - Working With Clients
 ---
 
-<img width="60%" class="rounded float-start pe-4" src="../img/ICS414.png" alt="Software Engineering steps">
+<img height="400px" class="rounded float-end pe-4" src="../img/ICS414.png" alt="Software Engineering steps">
 [Image Source](https://artoftesting.com/software-engineering#google_vignette)
 <div>
   <h2>Software Engineering II</h2>
