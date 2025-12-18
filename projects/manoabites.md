@@ -14,7 +14,7 @@ labels:
 summary: "An application is designed to help students and staff at the University of Hawaii at Manoa easily find food options across campus locations."
 ---
 
-<img height="300px" class="img-fluid justify-content-center" src="../img/ManoaBites.png">
+<img class="img-fluid justify-content-center" style="max-height: 500px;" src="../img/ManoaBites.png">
 
 Manoa Bites is a web application that I helped create as a team project in ICS 314, Fall 2024. This project gave me hands on experience on creating a responsive web site with other people.
 
