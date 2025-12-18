@@ -11,20 +11,18 @@ labels:
   - Working With Clients
 ---
 
-<div style="float: right; max-width: 400px;" class="ps-4">
+<figure class="float-end ps-4" style="max-width: 420px;">
   <img
     src="../img/ICS414.png"
+    class="img-fluid rounded"
     alt="Software Engineering steps"
-    class="rounded img-fluid"
-    style="max-height: 400px;"
-  />
-  <p style="font-size: 0.9rem;">
+  >
+  <figcaption style="font-size: 0.85rem;">
     <a href="https://artoftesting.com/software-engineering#google_vignette">
       Image Source
     </a>
-  </p>
-</div>
-<div style="clear: both;"></div>
+  </figcaption>
+</figure>
 <div>
   <h2>Software Engineering II</h2>
   <p>
