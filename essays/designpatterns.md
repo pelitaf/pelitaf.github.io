@@ -17,7 +17,7 @@ labels:
 
 <p>Design patterns are reusable solutions to common problems in software design, helping make coding more efficient. In software engineering, design patterns reduce the amount of hardcoding required, making it easier to scale and maintain projects. As I've been working on the final project for ICS 314, I've come to realize just how important design patterns are. For example, our final project involves creating an app that lists all the restaurants at UH Manoa. By using a "Restaurant" model, we can easily implement various features, such as displaying restaurant cards, pinning locations on a Google Map, and adding images.</p>
 <p>Without design patterns, managing a large-scale project would be a nightmare. This became clear when I attempted to recreate SoundCloud using React. I manually entered every image, title, author, and link for each sound. Instead of this tedious approach, I could have used a Factory pattern to generate the individual cards for each trending sound, streamlining the process.</p>
-<img style="padding: 5px" class="src="../img/image.png" alt="My React SoundCloud recreation">
+<img style="padding: 5px" class="rounded float-start" src="../img/SoundCloudRecreate.png" alt="My React SoundCloud recreation">
 
 ## Types Of Design and When to Use Them
 
