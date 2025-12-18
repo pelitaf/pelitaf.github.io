@@ -11,7 +11,7 @@ labels:
   - Working With Clients
 ---
 
-<figure class="float-end ps-4" style="max-width: 420px;">
+<figure class="float-end ps-4" style="max-height: 400px;">
   <img
     src="../img/ICS414.png"
     class="img-fluid rounded"
