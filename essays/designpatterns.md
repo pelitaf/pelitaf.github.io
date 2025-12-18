@@ -11,7 +11,7 @@ labels:
   - UI
 ---
 
-<img width="300px" style="padding: 5px" class="rounded float-start" src="../img/Screenshot 2024-12-05 001501.png" alt="Factory Creating Restaurants">
+<img width="300px" style="padding: 5px" class="rounded float-start" src="../img/DesignEssayImage.png" alt="Factory Creating Restaurants">
 
 ## Designs
 

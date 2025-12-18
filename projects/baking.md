@@ -12,7 +12,7 @@ labels:
 summary: "Honors Project I did for my baking class."
 ---
 
-<img src="../img/IMG_5044.jpg" alt="Chocolate sculpture of a Bird of Paradise flower on a crescent base.">
+<img src="../img/MyChocolatePiece.jpg" alt="Chocolate sculpture of a Bird of Paradise flower on a crescent base.">
 
 # Before Computer Science
 

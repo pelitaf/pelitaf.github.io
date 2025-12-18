@@ -18,5 +18,5 @@ I implemented a series of switch cases in order to get the computers play, users
 
 # Example Program Run:
 
-<img src="../img/Screenshot 2024-09-12 003607.png"
+<img src="../img/SRPSRun.png"
       alt="The C-program runs games of rock-paper-scissors and prints the results when the user is done playing." >

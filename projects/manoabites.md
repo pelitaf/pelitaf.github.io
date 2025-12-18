@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FullLogo.png
+image: img/ManoaBitesLogo.png
 title: "Manoa Bites"
 date: 2024-12
 published: true
