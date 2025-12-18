@@ -11,7 +11,7 @@ labels:
   - UI
 ---
 
-<img style="padding: 5px" height="300px" class="rounded float-start" src="../img/SoundCloudRecreate.png" alt="My React SoundCloud recreation">
+<img style="padding: 5px" height="600px" class="rounded float-start" src="../img/SoundCloudRecreate.png" alt="My React SoundCloud recreation">
 
 ## Designs
 
