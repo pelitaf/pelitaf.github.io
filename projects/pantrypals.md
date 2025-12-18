@@ -14,7 +14,11 @@ labels:
 summary: "An application designed to help users track the inventory in their pantry, build their grocery shopping lists, and cerate meals with items they have."
 ---
 
-<img class="img-fluid" style="max-height: 500px;" src="../img/PantryPalsAPP.png">
+<img
+  src="../img/PantryPalsAPP.png"
+  class="img-fluid d-block mx-auto"
+  style="max-height: 500px;"
+>
 
 Pantry Pals is a web application I helped develop as a team project for ICS 414 during the Fall 2025 semester. Our team consisted of nine members with varying skill levels, backgrounds, and work styles. We worked on this project throughout the entire semester, iterating on features, UI design, and database structure.
 
