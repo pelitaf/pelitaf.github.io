@@ -3,17 +3,17 @@ layout: essay
 type: essay
 title: "ICS 414"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-17
+date: 2025-12-17
 published: true
 labels:
   - Software Engineering
-  - Bootstrap
-  - HTML
-  - CSS
+  - Vercel
+  - Working With Clients
 ---
 <div>
 <img width="100%" class="rounded float-start pe-4" src="../img/ICS414.png" alt="Software Engineering steps">
 [Image Source](https://artoftesting.com/software-engineering#google_vignette)
+[Vercel](https://vercel.com/)
   <h2>Software Engineering II</h2>
   <p>
     Having taken Software Engineering I in Fall 2024, I already knew that Software Engineering II was a class I really wanted to take. A friend of mine had taken the course in Spring 2025 and explained that their class launched an application for an actual customer. The scale of that project sounded intimidating, but also necessary to really push our skills and boundaries.
