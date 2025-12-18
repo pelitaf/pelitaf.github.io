@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FullLogo.png
+image: img/pantrypals-logo.png
 title: "Pantry-Pals"
 date: 2025-09
 published: true
@@ -16,13 +16,17 @@ summary: "An application designed to help users track the inventory in their pan
 
 <img class="img-fluid" src="../img/pantrypals-logo.png">
 
-Pantry Pals is a web application that I helped create as a team project in ICS 414, Fall 2025. Our team consists of nine members of varying skill level, backgrounds, and work preferences.
+Pantry Pals is a web application I helped develop as a team project for ICS 414 during the Fall 2025 semester. Our team consisted of nine members with varying skill levels, backgrounds, and work styles. We worked on this project throughout the entire semester, iterating on features, UI design, and database structure.
 
-Pantry Pals is deployed using [Vercel](https://vercel.com/). Over the course of approximately 5 weeks, we created this website catered to people who frequent the UH Manoa campus who are looking for a place to eat. The website displays restaurants information on the home page. If users create an account they can also "favorite" restaurants and view the ones they have saved. The admin user can edit, delete, and add restaurant information. Vendors can also sign-up to add their restaurant onto our website and can only make edits to their our restaurant.
+The purpose of Pantry Pals is to help users stay organized with the food they have at home. Users can add pantry items with details such as quantity, storage location, type, and expiration date. The app highlights expiring items, making it easier for users to prioritize what to use before food goes to waste.
 
-In order to build this website we used typscript codes and functions, [Postgres](https://www.postgresql.org/) for our database, and [React-Bootstrap framework](https://react-bootstrap.github.io/) to help make components.
+Pantry Pals also allows users to generate and manage grocery shopping lists based on missing or low-stock items. Items can be added individually or in bulk, helping streamline grocery planning. The application supports editing and deleting pantry items, as well as updating quantities as food is used.
 
-Working on a team to build this application was very insightful as well. We were provided an IDPM(Issue-Driven Project Management) approach that allowed us to organize our tasks and timelines. This helped the team stay on top of things and have clarity of what work is done, still needed, or in progress. For Software Engineering 1 students I am very pleased with our application we have built and can be viewed here at <a href="https://manoa-bites.vercel.app/">Manoa-Bites.vercel.app/</a>. 
+The application is built using TypeScript and React, with [Postgres](https://www.postgresql.org/) as the database and [React-Bootstrap](https://react-bootstrap.github.io/) for UI components. Pantry Pals is deployed using [Vercel](https://vercel.com/). We focused on creating a clean, user-friendly interface while maintaining reliable data handling on the backend.
+
+To manage team productivity and collaboration, we used GitHub Projects to track tasks, assign issues, and monitor progress throughout the semester. This helped keep the team aligned and ensured features were completed in a structured and timely manner.
+
+Working on Pantry Pals strengthened my experience with full-stack development and team collaboration in a real-world project setting. It was a valuable learning experience that combined technical implementation with thoughtful UI design.
 
  
 Source: <a href="https://pantry-pal-gamma.vercel.app/">Pantry Pals</a>
