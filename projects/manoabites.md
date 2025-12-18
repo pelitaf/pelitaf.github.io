@@ -15,10 +15,10 @@ summary: "An application is designed to help students and staff at the Universit
 ---
 
 <img
-  src="../img/ManoaBites.png"
+  src="/img/ManoaBites.png"
   class="img-fluid d-block mx-auto"
   style="max-height: 500px;"
->
+/>
 
 Manoa Bites is a web application that I helped create as a team project in ICS 314, Fall 2024. This project gave me hands on experience on creating a responsive web site with other people.
 
